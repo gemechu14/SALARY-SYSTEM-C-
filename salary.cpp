@@ -228,7 +228,7 @@ int main()
 	char pass[10];
 	do{
 	cout << "\n\t|=================================================|";
-	cout << "\n\t|          ETHIOPIAN SALARY SYSTEM                |"<<
+	cout << "\n\t|         SALARY SYSTEM                |"<<
 	        "\n\t|=================================================|"<<
 	        
 	
